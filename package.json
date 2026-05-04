@@ -1,0 +1,38 @@
+{
+  "name": "@ciwergrp/vueuse-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/generate-build-info.mjs && node scripts/verify-vueuse-docs-index.mjs",
+    "dev": "next dev",
+    "dev:stdio": "node --experimental-strip-types src/index.ts",
+    "prebuild": "node scripts/generate-build-info.mjs && node scripts/verify-vueuse-docs-index.mjs",
+    "docs:refresh": "node --experimental-strip-types scripts/generate-vueuse-docs-index.ts",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "cheerio": "^1.1.2",
+    "mcp-handler": "^1.0.0",
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.6.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^10.3.0",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.59.1"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

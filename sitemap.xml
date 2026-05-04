@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- State -->
+  <url><loc>https://vueuse.org/shared/createGlobalState/</loc></url>
+  <url><loc>https://vueuse.org/shared/createInjectionState/</loc></url>
+  <url><loc>https://vueuse.org/shared/createSharedComposable/</loc></url>
+  <url><loc>https://vueuse.org/shared/injectLocal/</loc></url>
+  <url><loc>https://vueuse.org/shared/provideLocal/</loc></url>
+  <url><loc>https://vueuse.org/core/useAsyncState/</loc></url>
+  <url><loc>https://vueuse.org/core/useDebouncedRefHistory/</loc></url>
+  <url><loc>https://vueuse.org/shared/useLastChanged/</loc></url>
+  <url><loc>https://vueuse.org/core/useLocalStorage/</loc></url>
+  <url><loc>https://vueuse.org/core/useManualRefHistory/</loc></url>
+  <url><loc>https://vueuse.org/core/useRefHistory/</loc></url>
+  <url><loc>https://vueuse.org/core/useSessionStorage/</loc></url>
+  <url><loc>https://vueuse.org/core/useStorage/</loc></url>
+  <url><loc>https://vueuse.org/core/useStorageAsync/</loc></url>
+  <url><loc>https://vueuse.org/core/useThrottledRefHistory/</loc></url>
+
+  <!-- Elements -->
+  <url><loc>https://vueuse.org/core/useActiveElement/</loc></url>
+  <url><loc>https://vueuse.org/core/useDocumentVisibility/</loc></url>
+  <url><loc>https://vueuse.org/core/useDraggable/</loc></url>
+  <url><loc>https://vueuse.org/core/useDropZone/</loc></url>
+  <url><loc>https://vueuse.org/core/useElementBounding/</loc></url>
+  <url><loc>https://vueuse.org/core/useElementSize/</loc></url>
+  <url><loc>https://vueuse.org/core/useElementVisibility/</loc></url>
+  <url><loc>https://vueuse.org/core/useIntersectionObserver/</loc></url>
+  <url><loc>https://vueuse.org/core/useMouseInElement/</loc></url>
+  <url><loc>https://vueuse.org/core/useMutationObserver/</loc></url>
+  <url><loc>https://vueuse.org/core/useParentElement/</loc></url>
+  <url><loc>https://vueuse.org/core/useResizeObserver/</loc></url>
+  <url><loc>https://vueuse.org/core/useWindowFocus/</loc></url>
+  <url><loc>https://vueuse.org/core/useWindowScroll/</loc></url>
+  <url><loc>https://vueuse.org/core/useWindowSize/</loc></url>
+
+  <!-- Browser -->
+  <url><loc>https://vueuse.org/core/useBluetooth/</loc></url>
+  <url><loc>https://vueuse.org/core/useBreakpoints/</loc></url>
+  <url><loc>https://vueuse.org/core/useBroadcastChannel/</loc></url>
+  <url><loc>https://vueuse.org/core/useBrowserLocation/</loc></url>
+  <url><loc>https://vueuse.org/core/useClipboard/</loc></url>
+  <url><loc>https://vueuse.org/core/useClipboardItems/</loc></url>
+  <url><loc>https://vueuse.org/core/useColorMode/</loc></url>
+  <url><loc>https://vueuse.org/core/useCssSupports/</loc></url>
+  <url><loc>https://vueuse.org/core/useCssVar/</loc></url>
+  <url><loc>https://vueuse.org/core/useDark/</loc></url>
+  <url><loc>https://vueuse.org/core/useEventListener/</loc></url>
+  <url><loc>https://vueuse.org/core/useEyeDropper/</loc></url>
+  <url><loc>https://vueuse.org/core/useFavicon/</loc></url>
+  <url><loc>https://vueuse.org/core/useFileDialog/</loc></url>
+  <url><loc>https://vueuse.org/core/useFileSystemAccess/</loc></url>
+  <url><loc>https://vueuse.org/core/useFullscreen/</loc></url>
+  <url><loc>https://vueuse.org/core/useGamepad/</loc></url>
+  <url><loc>https://vueuse.org/core/useImage/</loc></url>
+  <url><loc>https://vueuse.org/core/useMediaControls/</loc></url>
+  <url><loc>https://vueuse.org/core/useMediaQuery/</loc></url>
+  <url><loc>https://vueuse.org/core/useMemory/</loc></url>
+  <url><loc>https://vueuse.org/core/useObjectUrl/</loc></url>
+  <url><loc>https://vueuse.org/core/usePerformanceObserver/</loc></url>
+  <url><loc>https://vueuse.org/core/usePermission/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredColorScheme/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredContrast/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredDark/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredLanguages/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredReducedMotion/</loc></url>
+  <url><loc>https://vueuse.org/core/usePreferredReducedTransparency/</loc></url>
+  <url><loc>https://vueuse.org/core/useScreenOrientation/</loc></url>
+  <url><loc>https://vueuse.org/core/useScreenSafeArea/</loc></url>
+  <url><loc>https://vueuse.org/core/useScriptTag/</loc></url>
+  <url><loc>https://vueuse.org/core/useShare/</loc></url>
+  <url><loc>https://vueuse.org/core/useSSRWidth/</loc></url>
+  <url><loc>https://vueuse.org/core/useStyleTag/</loc></url>
+  <url><loc>https://vueuse.org/core/useTextareaAutosize/</loc></url>
+  <url><loc>https://vueuse.org/core/useTextDirection/</loc></url>
+  <url><loc>https://vueuse.org/core/useTitle/</loc></url>
+  <url><loc>https://vueuse.org/core/useUrlSearchParams/</loc></url>
+  <url><loc>https://vueuse.org/core/useVibrate/</loc></url>
+  <url><loc>https://vueuse.org/core/useWakeLock/</loc></url>
+  <url><loc>https://vueuse.org/core/useWebNotification/</loc></url>
+  <url><loc>https://vueuse.org/core/useWebWorker/</loc></url>
+  <url><loc>https://vueuse.org/core/useWebWorkerFn/</loc></url>
+
+  <!-- Sensors -->
+  <url><loc>https://vueuse.org/core/onClickOutside/</loc></url>
+  <url><loc>https://vueuse.org/core/onElementRemoval/</loc></url>
+  <url><loc>https://vueuse.org/core/onKeyStroke/</loc></url>
+  <url><loc>https://vueuse.org/core/onLongPress/</loc></url>
+  <url><loc>https://vueuse.org/core/onStartTyping/</loc></url>
+  <url><loc>https://vueuse.org/core/useBattery/</loc></url>
+  <url><loc>https://vueuse.org/core/useDeviceMotion/</loc></url>
+  <url><loc>https://vueuse.org/core/useDeviceOrientation/</loc></url>
+  <url><loc>https://vueuse.org/core/useDevicePixelRatio/</loc></url>
+  <url><loc>https://vueuse.org/core/useDevicesList/</loc></url>
+  <url><loc>https://vueuse.org/core/useDisplayMedia/</loc></url>
+  <url><loc>https://vueuse.org/core/useElementByPoint/</loc></url>
+  <url><loc>https://vueuse.org/core/useElementHover/</loc></url>
+  <url><loc>https://vueuse.org/core/useFocus/</loc></url>
+  <url><loc>https://vueuse.org/core/useFocusWithin/</loc></url>
+  <url><loc>https://vueuse.org/core/useFps/</loc></url>
+  <url><loc>https://vueuse.org/core/useGeolocation/</loc></url>
+  <url><loc>https://vueuse.org/core/useIdle/</loc></url>
+  <url><loc>https://vueuse.org/core/useInfiniteScroll/</loc></url>
+  <url><loc>https://vueuse.org/core/useKeyModifier/</loc></url>
+  <url><loc>https://vueuse.org/core/useMagicKeys/</loc></url>
+  <url><loc>https://vueuse.org/core/useMouse/</loc></url>
+  <url><loc>https://vueuse.org/core/useMousePressed/</loc></url>
+  <url><loc>https://vueuse.org/core/useNavigatorLanguage/</loc></url>
+  <url><loc>https://vueuse.org/core/useNetwork/</loc></url>
+  <url><loc>https://vueuse.org/core/useOnline/</loc></url>
+  <url><loc>https://vueuse.org/core/usePageLeave/</loc></url>
+  <url><loc>https://vueuse.org/core/useParallax/</loc></url>
+  <url><loc>https://vueuse.org/core/usePointer/</loc></url>
+  <url><loc>https://vueuse.org/core/usePointerLock/</loc></url>
+  <url><loc>https://vueuse.org/core/usePointerSwipe/</loc></url>
+  <url><loc>https://vueuse.org/core/useScroll/</loc></url>
+  <url><loc>https://vueuse.org/core/useScrollLock/</loc></url>
+  <url><loc>https://vueuse.org/core/useSpeechRecognition/</loc></url>
+  <url><loc>https://vueuse.org/core/useSpeechSynthesis/</loc></url>
+  <url><loc>https://vueuse.org/core/useSwipe/</loc></url>
+  <url><loc>https://vueuse.org/core/useTextSelection/</loc></url>
+  <url><loc>https://vueuse.org/core/useUserMedia/</loc></url>
+
+  <!-- Network -->
+  <url><loc>https://vueuse.org/core/useEventSource/</loc></url>
+  <url><loc>https://vueuse.org/core/useFetch/</loc></url>
+  <url><loc>https://vueuse.org/core/useWebSocket/</loc></url>
+
+  <!-- Animation -->
+  <url><loc>https://vueuse.org/core/useAnimate/</loc></url>
+  <url><loc>https://vueuse.org/shared/useInterval/</loc></url>
+  <url><loc>https://vueuse.org/shared/useIntervalFn/</loc></url>
+  <url><loc>https://vueuse.org/core/useNow/</loc></url>
+  <url><loc>https://vueuse.org/core/useRafFn/</loc></url>
+  <url><loc>https://vueuse.org/shared/useTimeout/</loc></url>
+  <url><loc>https://vueuse.org/shared/useTimeoutFn/</loc></url>
+  <url><loc>https://vueuse.org/core/useTimestamp/</loc></url>
+  <url><loc>https://vueuse.org/core/useTransition/</loc></url>
+
+  <!-- Component -->
+  <url><loc>https://vueuse.org/core/computedInject/</loc></url>
+  <url><loc>https://vueuse.org/core/createReusableTemplate/</loc></url>
+  <url><loc>https://vueuse.org/core/createTemplatePromise/</loc></url>
+  <url><loc>https://vueuse.org/core/templateRef/</loc></url>
+  <url><loc>https://vueuse.org/shared/tryOnBeforeMount/</loc></url>
+  <url><loc>https://vueuse.org/shared/tryOnBeforeUnmount/</loc></url>
+  <url><loc>https://vueuse.org/shared/tryOnMounted/</loc></url>
+  <url><loc>https://vueuse.org/shared/tryOnScopeDispose/</loc></url>
+  <url><loc>https://vueuse.org/shared/tryOnUnmounted/</loc></url>
+  <url><loc>https://vueuse.org/core/unrefElement/</loc></url>
+  <url><loc>https://vueuse.org/core/useCurrentElement/</loc></url>
+  <url><loc>https://vueuse.org/core/useMounted/</loc></url>
+  <url><loc>https://vueuse.org/core/useTemplateRefsList/</loc></url>
+  <url><loc>https://vueuse.org/core/useVirtualList/</loc></url>
+  <url><loc>https://vueuse.org/core/useVModel/</loc></url>
+  <url><loc>https://vueuse.org/core/useVModels/</loc></url>
+
+  <!-- Watch -->
+  <url><loc>https://vueuse.org/shared/until/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchArray/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchAtMost/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchDebounced/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchDeep/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchIgnorable/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchImmediate/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchOnce/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchPausable/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchThrottled/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchTriggerable/</loc></url>
+  <url><loc>https://vueuse.org/shared/watchWithFilter/</loc></url>
+  <url><loc>https://vueuse.org/shared/whenever/</loc></url>
+
+  <!-- Reactivity -->
+  <url><loc>https://vueuse.org/core/computedAsync/</loc></url>
+  <url><loc>https://vueuse.org/shared/computedEager/</loc></url>
+  <url><loc>https://vueuse.org/shared/computedWithControl/</loc></url>
+  <url><loc>https://vueuse.org/shared/createRef/</loc></url>
+  <url><loc>https://vueuse.org/shared/extendRef/</loc></url>
+  <url><loc>https://vueuse.org/shared/reactify/</loc></url>
+  <url><loc>https://vueuse.org/shared/reactifyObject/</loc></url>
+  <url><loc>https://vueuse.org/shared/reactiveComputed/</loc></url>
+  <url><loc>https://vueuse.org/shared/reactiveOmit/</loc></url>
+  <url><loc>https://vueuse.org/shared/reactivePick/</loc></url>
+  <url><loc>https://vueuse.org/shared/refAutoReset/</loc></url>
+  <url><loc>https://vueuse.org/shared/refDebounced/</loc></url>
+  <url><loc>https://vueuse.org/shared/refDefault/</loc></url>
+  <url><loc>https://vueuse.org/shared/refManualReset/</loc></url>
+  <url><loc>https://vueuse.org/shared/refThrottled/</loc></url>
+  <url><loc>https://vueuse.org/shared/refWithControl/</loc></url>
+  <url><loc>https://vueuse.org/shared/syncRef/</loc></url>
+  <url><loc>https://vueuse.org/shared/syncRefs/</loc></url>
+  <url><loc>https://vueuse.org/shared/toReactive/</loc></url>
+  <url><loc>https://vueuse.org/shared/toRef/</loc></url>
+  <url><loc>https://vueuse.org/shared/toRefs/</loc></url>
+
+  <!-- Array -->
+  <url><loc>https://vueuse.org/shared/useArrayDifference/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayEvery/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayFilter/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayFind/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayFindIndex/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayFindLast/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayIncludes/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayJoin/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayMap/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayReduce/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArraySome/</loc></url>
+  <url><loc>https://vueuse.org/shared/useArrayUnique/</loc></url>
+  <url><loc>https://vueuse.org/core/useSorted/</loc></url>
+
+  <!-- Time -->
+  <url><loc>https://vueuse.org/core/useCountdown/</loc></url>
+  <url><loc>https://vueuse.org/shared/useDateFormat/</loc></url>
+  <url><loc>https://vueuse.org/core/useTimeAgo/</loc></url>
+  <url><loc>https://vueuse.org/core/useTimeAgoIntl/</loc></url>
+
+  <!-- Utilities -->
+  <url><loc>https://vueuse.org/shared/createDisposableDirective/</loc></url>
+  <url><loc>https://vueuse.org/shared/createEventHook/</loc></url>
+  <url><loc>https://vueuse.org/core/createUnrefFn/</loc></url>
+  <url><loc>https://vueuse.org/shared/get/</loc></url>
+  <url><loc>https://vueuse.org/shared/isDefined/</loc></url>
+  <url><loc>https://vueuse.org/shared/makeDestructurable/</loc></url>
+  <url><loc>https://vueuse.org/shared/set/</loc></url>
+  <url><loc>https://vueuse.org/core/useAsyncQueue/</loc></url>
+  <url><loc>https://vueuse.org/core/useBase64/</loc></url>
+  <url><loc>https://vueuse.org/core/useCached/</loc></url>
+  <url><loc>https://vueuse.org/core/useCloned/</loc></url>
+  <url><loc>https://vueuse.org/core/useConfirmDialog/</loc></url>
+  <url><loc>https://vueuse.org/shared/useCounter/</loc></url>
+  <url><loc>https://vueuse.org/core/useCycleList/</loc></url>
+  <url><loc>https://vueuse.org/shared/useDebounceFn/</loc></url>
+  <url><loc>https://vueuse.org/core/useEventBus/</loc></url>
+  <url><loc>https://vueuse.org/core/useMemoize/</loc></url>
+  <url><loc>https://vueuse.org/core/useOffsetPagination/</loc></url>
+  <url><loc>https://vueuse.org/core/usePrevious/</loc></url>
+  <url><loc>https://vueuse.org/core/useStepper/</loc></url>
+  <url><loc>https://vueuse.org/core/useSupported/</loc></url>
+  <url><loc>https://vueuse.org/shared/useThrottleFn/</loc></url>
+  <url><loc>https://vueuse.org/core/useTimeoutPoll/</loc></url>
+  <url><loc>https://vueuse.org/shared/useToggle/</loc></url>
+  <url><loc>https://vueuse.org/shared/useToNumber/</loc></url>
+  <url><loc>https://vueuse.org/shared/useToString/</loc></url>
+
+  <!-- @Electron -->
+  <url><loc>https://vueuse.org/electron/README.html</loc></url>
+  <url><loc>https://vueuse.org/electron/useIpcRenderer/</loc></url>
+  <url><loc>https://vueuse.org/electron/useIpcRendererInvoke/</loc></url>
+  <url><loc>https://vueuse.org/electron/useIpcRendererOn/</loc></url>
+  <url><loc>https://vueuse.org/electron/useZoomFactor/</loc></url>
+  <url><loc>https://vueuse.org/electron/useZoomLevel/</loc></url>
+
+  <!-- @Firebase -->
+  <url><loc>https://vueuse.org/firebase/README.html</loc></url>
+  <url><loc>https://vueuse.org/firebase/useAuth/</loc></url>
+  <url><loc>https://vueuse.org/firebase/useFirestore/</loc></url>
+  <url><loc>https://vueuse.org/firebase/useRTDB/</loc></url>
+
+  <!-- @Head -->
+  <url><loc>https://github.com/vueuse/head#api</loc></url>
+
+  <!-- @Integrations -->
+  <url><loc>https://vueuse.org/integrations/README.html</loc></url>
+  <url><loc>https://vueuse.org/integrations/useAsyncValidator/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useAxios/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useChangeCase/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useCookies/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useDrauu/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useFocusTrap/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useFuse/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useIDBKeyval/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useJwt/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useNProgress/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useQRCode/</loc></url>
+  <url><loc>https://vueuse.org/integrations/useSortable/</loc></url>
+
+  <!-- @Math -->
+  <url><loc>https://vueuse.org/math/README.html</loc></url>
+  <url><loc>https://vueuse.org/math/createGenericProjection/</loc></url>
+  <url><loc>https://vueuse.org/math/createProjection/</loc></url>
+  <url><loc>https://vueuse.org/math/logicAnd/</loc></url>
+  <url><loc>https://vueuse.org/math/logicNot/</loc></url>
+  <url><loc>https://vueuse.org/math/logicOr/</loc></url>
+  <url><loc>https://vueuse.org/math/useAbs/</loc></url>
+  <url><loc>https://vueuse.org/math/useAverage/</loc></url>
+  <url><loc>https://vueuse.org/math/useCeil/</loc></url>
+  <url><loc>https://vueuse.org/math/useClamp/</loc></url>
+  <url><loc>https://vueuse.org/math/useFloor/</loc></url>
+  <url><loc>https://vueuse.org/math/useMath/</loc></url>
+  <url><loc>https://vueuse.org/math/useMax/</loc></url>
+  <url><loc>https://vueuse.org/math/useMin/</loc></url>
+  <url><loc>https://vueuse.org/math/usePrecision/</loc></url>
+  <url><loc>https://vueuse.org/math/useProjection/</loc></url>
+  <url><loc>https://vueuse.org/math/useRound/</loc></url>
+  <url><loc>https://vueuse.org/math/useSum/</loc></url>
+  <url><loc>https://vueuse.org/math/useTrunc/</loc></url>
+
+  <!-- @Motion -->
+  <url><loc>https://motion.vueuse.org/api/use-element-style</loc></url>
+  <url><loc>https://motion.vueuse.org/api/use-element-transform</loc></url>
+  <url><loc>https://motion.vueuse.org/api/use-motion</loc></url>
+  <url><loc>https://motion.vueuse.org/api/use-motion-properties</loc></url>
+  <url><loc>https://motion.vueuse.org/api/use-motion-variants</loc></url>
+  <url><loc>https://motion.vueuse.org/api/use-spring</loc></url>
+
+  <!-- @Router -->
+  <url><loc>https://vueuse.org/router/README.html</loc></url>
+  <url><loc>https://vueuse.org/router/useRouteHash/</loc></url>
+  <url><loc>https://vueuse.org/router/useRouteParams/</loc></url>
+  <url><loc>https://vueuse.org/router/useRouteQuery/</loc></url>
+
+  <!-- @RxJS -->
+  <url><loc>https://vueuse.org/rxjs/README.html</loc></url>
+  <url><loc>https://vueuse.org/rxjs/from/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/toObserver/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/useExtractedObservable/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/useObservable/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/useSubject/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/useSubscription/</loc></url>
+  <url><loc>https://vueuse.org/rxjs/watchExtractedObservable/</loc></url>
+
+  <!-- @SchemaOrg -->
+  <url><loc>https://vue-schema-org.netlify.app/api/core/create-schema-org.html</loc></url>
+  <url><loc>https://vue-schema-org.netlify.app/api/core/use-schema-org.html</loc></url>
+
+  <!-- @Sound -->
+  <url><loc>https://github.com/vueuse/sound#examples</loc></url>
+
+</urlset>
