@@ -36,7 +36,7 @@ Use a remote MCP config like this:
 
 ```json
 {
-  "mcpServers": {
+  "mcp": {
     "vueuse-mcp": {
       "type": "remote",
       "url": "http://localhost:3000/api/mcp",
